@@ -1,0 +1,82 @@
+{
+    "status": "ok",
+    "pets": [
+		   {
+		   "classification": "fish",
+		   "name" : "Tetras",
+		   "negative" : "Tetras should be kept in a school of 5 or more.",
+		   "positive" : "Brighten up a living area.",
+        
+		   },
+		   {
+		   "classification": "fish",
+		   "name" : "Guppies",
+		   "negative" : "Guppies must be in a school of 3 or more.",
+		   "positive" : "Provide entertainment with their colors and swimming patterns.",
+           
+		   },
+		   {
+		   "classification": "fish",
+		   "name" : "Betta",
+		   "negative" : "Males should be kept alone, while females can be 4-5 in a tank.",
+		   "positive" : "Give you a sense of companionship.",
+           
+		   },
+			{
+		   "classification": "mammal",
+		   "name" : "Gerbil",
+		   "negative" : "Gerbils cannot live in wire-mesh cages and need lots of toys",
+		   "positive" : "Low maintenance, small, non-aggressive, and cleaner than most pets",
+           
+            },
+            {
+           "classification": "mammal",
+           "name" : "Hamster",
+           "negative" : "A hamster will tolerate your absence for a day or so but will then grow lonely.",
+           "positive" : "Don’t require a specialized diet, and happy to entertain themselves if you’re busy.",
+           
+            },
+            {
+           "classification": "mammal",
+           "name" : "Chinchilla",
+           "negative" : "Must be willing to invest time and money",
+           "positive" : "Small, self-cleaning,and playful",
+           
+           },
+            {
+		   "classification": "crustacean",
+		   "name" : "Hermit Crab",
+		   "negative" : "Perfecting the tank conditions may be time-consuming",
+		   "positive" : "More activity than a fish but less than a gerbil.",
+           
+		   },
+			{
+		   "classification": "reptile",
+		   "name" : "Red Eared Slider",
+		   "negative" : "Many turtle species need a specialized diet",
+		   "positive" : "Friendliest of all turtle species",
+           
+		   },
+			{
+		   "classification": "reptile",
+		   "name" : "Leopard Gecko",
+		   "negative" : "Leopard geckos are insectivores requiring a diet of small, live insects like crickets or roaches",
+		   "positive" : "Low maintenance, clean, and small",
+          
+		   },
+			{
+		   "classification": "bird",
+		   "name" : "Canary",
+		   "negative" : "Require enrichment and some dorms may not allow them.",
+		   "positive" : "Small, warm up quickly, and easy to take care of.",
+           
+		   },
+			{
+		   "classification": "bird",
+		   "name" : "Cockatiel",
+		   "negative" : "cockatiels offer the most personality but can be loud if not properly trained.",
+		   "positive" : "Train them to sit on your finger or shoulder, mimic words, or play games.",
+           
+		   }
+		]
+}
